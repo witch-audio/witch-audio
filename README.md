@@ -1,25 +1,48 @@
-# witchaudio
+<div align="center">
+  <img src="witchaudio_banner.svg" alt="WITCHAUDIO" />
+</div>
 
-> hand-cut lines. black ink. code + sound.
+<table>
+  <tr>
+      <br/>
+      <img src="witch_audio.png" width="240" alt="witchaudio woodcut" />
+      <br/><br/>
+      <code>full stack dev · qa engineer</code>
+      <br/>
+      <code>~/witchaudio</code>
+    </td>
+    <td valign="top">
 
-![witchaudio woodcut scene](witch_audio.png)
+```
+ ╔══ witchaudio v1.0 ══════════════════════════════════╗
+ ║                                                      ║
+ ║  Profile                                             ║
+ ║    role:       full stack developer | qa engineer     ║
+ ║    focus:      audio programming · web experiences   ║
+ ║    ask me:     audio and music production            ║
+ ║                                                      ║
+ ║  Now                                                 ║
+ ║    > building tools for musicians & audio engineers  ║
+ ║    > constantly learning new things                  ║
+ ║                                                      ║
+ ║  Find Me                                             ║
+ ║    github:     github.com/witchaudio                 ║
+ ║    email:      witchaudiostudios@gmail.com           ║
+ ║    dev.to:     dev.to/s0undw1tch                     ║
+ ║                                                      ║
+ ╚══════════════════════════════════════════════════════╝
+```
 
-Building web experiences and studying audio programming.
+</td>
+  </tr>
+</table>
 
-## now
-- Building tools for musicians and audio engineers
-- constantly learning new things
+<div align="center">
+  <img src="shipping.svg" alt="Shipping progress" />
+</div>
 
-## profile
-- Full Stack Developer | QA Engineer
-- Ask me about audio and music production
+<div align="center">
 
-## find me
-- github: https://github.com/witchaudio
-- email: witchaudiostudios@gmail.com
-- dev.to: https://dev.to/s0undw1tch
-
----
-
-`make it simple. make it strange.`
-![hooded hacker woodcut](hood_hacker.png)
+```
+❯ make it simple. make it strange. █
+```

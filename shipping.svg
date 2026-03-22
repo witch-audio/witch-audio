@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 310">
+  <defs>
+    <pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#0d1117"/>
+      <rect x="0" y="0" width="2" height="2" fill="#545d68"/>
+      <rect x="2" y="2" width="2" height="2" fill="#545d68"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="310" fill="#0d1117" rx="6"/>
+
+  <!-- Header -->
+  <text x="24" y="30" font-family="'Courier New','Lucida Console',monospace" font-size="13" fill="#636e7b">Shipping</text>
+  <line x1="24" y1="40" x2="656" y2="40" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Row 1: stickyterminal  60% -->
+  <text x="24" y="76" font-family="'Courier New','Lucida Console',monospace" font-size="13" fill="#e6edf3">stickyterminal</text>
+  <text x="195" y="76" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">[</text>
+  <rect x="210" y="64" width="192" height="16" fill="#e6edf3" rx="1"/>
+  <rect x="402" y="64" width="128" height="16" fill="url(#hatch)" rx="1"/>
+  <text x="540" y="76" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">]</text>
+  <text x="564" y="76" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#e6edf3" font-weight="bold">60%</text>
+  <text x="616" y="76" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">→</text>
+
+  <!-- Row 2: getdreamrole.com  50% -->
+  <text x="24" y="124" font-family="'Courier New','Lucida Console',monospace" font-size="13" fill="#e6edf3">getdreamrole.com</text>
+  <text x="195" y="124" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">[</text>
+  <rect x="210" y="112" width="160" height="16" fill="#e6edf3" rx="1"/>
+  <rect x="370" y="112" width="160" height="16" fill="url(#hatch)" rx="1"/>
+  <text x="540" y="124" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">]</text>
+  <text x="564" y="124" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#e6edf3" font-weight="bold">50%</text>
+  <text x="616" y="124" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">→</text>
+
+  <!-- Row 3: ReviewSentinel  95% -->
+  <text x="24" y="172" font-family="'Courier New','Lucida Console',monospace" font-size="13" fill="#e6edf3">ReviewSentinel</text>
+  <text x="195" y="172" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">[</text>
+  <rect x="210" y="160" width="304" height="16" fill="#e6edf3" rx="1"/>
+  <rect x="514" y="160" width="16" height="16" fill="url(#hatch)" rx="1"/>
+  <text x="540" y="172" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">]</text>
+  <text x="564" y="172" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#e6edf3" font-weight="bold">95%</text>
+  <text x="616" y="172" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">→</text>
+
+  <!-- Row 4: VibeCodeCheck.Me  75% -->
+  <text x="24" y="220" font-family="'Courier New','Lucida Console',monospace" font-size="13" fill="#e6edf3">VibeCodeCheck.Me</text>
+  <text x="195" y="220" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">[</text>
+  <rect x="210" y="208" width="240" height="16" fill="#e6edf3" rx="1"/>
+  <rect x="450" y="208" width="80" height="16" fill="url(#hatch)" rx="1"/>
+  <text x="540" y="220" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">]</text>
+  <text x="564" y="220" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#e6edf3" font-weight="bold">75%</text>
+  <text x="616" y="220" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">→</text>
+
+  <!-- Row 5: witch.audio  55% -->
+  <text x="24" y="268" font-family="'Courier New','Lucida Console',monospace" font-size="13" fill="#e6edf3">witch.audio</text>
+  <text x="195" y="268" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">[</text>
+  <rect x="210" y="256" width="176" height="16" fill="#e6edf3" rx="1"/>
+  <rect x="386" y="256" width="144" height="16" fill="url(#hatch)" rx="1"/>
+  <text x="540" y="268" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">]</text>
+  <text x="564" y="268" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#e6edf3" font-weight="bold">55%</text>
+  <text x="616" y="268" font-family="'Courier New','Lucida Console',monospace" font-size="14" fill="#636e7b">→</text>
+
+  <!-- Bottom line -->
+  <line x1="24" y1="290" x2="656" y2="290" stroke="#21262d" stroke-width="1"/>
+</svg>
