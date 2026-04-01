@@ -1,0 +1,72 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 180) rotate(18) scale(280 220)">
+      <stop stop-color="#8A5CFF" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#8A5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(890 210) rotate(-20) scale(360 240)">
+      <stop stop-color="#00E5FF" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 560) rotate(0) scale(420 180)">
+      <stop stop-color="#FF5CF0" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#FF5CF0" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="720" rx="24" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="684" rx="18" stroke="#1E263D"/>
+  <ellipse cx="290" cy="180" rx="280" ry="220" fill="url(#glow1)" filter="url(#soft)"/>
+  <ellipse cx="890" cy="210" rx="360" ry="240" fill="url(#glow2)" filter="url(#soft)"/>
+  <ellipse cx="640" cy="560" rx="420" ry="180" fill="url(#glow3)" filter="url(#soft)"/>
+
+  <g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#7FE7FF" opacity="0.92">
+    <text x="52" y="60">/* witch.audio profile :: making AI do the weird audio stuff i always wanted */</text>
+    <text x="52" y="90" fill="#B89CFF">[ livestream mode: ON ]</text>
+    <text x="1148" y="60" text-anchor="end" fill="#CFE7FF">apps: 8 / 10000</text>
+    <text x="1148" y="90" text-anchor="end" fill="#FF9AF3">status: signal found</text>
+  </g>
+
+  <g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#ECF7FF">
+    <text x="78" y="174">__      __.__ __         .__       .__                 .___  .__</text>
+    <text x="78" y="208">/  \    /  \__|/  |_  ____|  |__   |__| _____   __ __  |   | |  |</text>
+    <text x="78" y="242">\   \/\/   /  \   __\/ ___\  |  \  |  |/     \ |  |  \ |   | |  |</text>
+    <text x="78" y="276"> \        /|  ||  | \  \___|   Y  \ |  |  Y Y  \|  |  / |   | |  |__</text>
+    <text x="78" y="310">  \__/\  / |__||__|  \___  &gt;___|  / |__|__|_|  /|____/  |___| |____/</text>
+    <text x="78" y="344">       \/                \/     \/          \/</text>
+  </g>
+
+  <g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#D7F6FF">
+    <text x="90" y="402">           .                .         .              .            *</text>
+    <text x="90" y="428">    .-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+.</text>
+    <text x="90" y="454">    |   ~ waveform altar ~      ~ plugin lab ~      ~ haunted DSP ~ |</text>
+    <text x="90" y="480">    |                                                               |</text>
+    <text x="90" y="506">    |   &gt;&gt; build weird audio tools live                             |</text>
+    <text x="90" y="532">    |   &gt;&gt; turn fear into signal                                    |</text>
+    <text x="90" y="558">    |   &gt;&gt; ship beautiful cursed software                           |</text>
+    <text x="90" y="584">    |                                                               |</text>
+    <text x="90" y="610">    +--^^^---___---^^^---___---^^^---___---^^^---___---^^^---___---+</text>
+  </g>
+
+  <g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#F2FBFF">
+    <text x="780" y="436">┌─ now building</text>
+    <text x="780" y="466">│  weird audio apps</text>
+    <text x="780" y="494">│  AI plugin experiments</text>
+    <text x="780" y="522">│  vibe marketing tools</text>
+    <text x="780" y="550">│  livestream chaos</text>
+    <text x="780" y="578">└─ keep shipping</text>
+  </g>
+
+  <g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8AA2C8">
+    <text x="78" y="670">github.com/witchaudio</text>
+    <text x="600" y="670" text-anchor="middle">witch.audio</text>
+    <text x="1122" y="670" text-anchor="end">make it strange // make it sing</text>
+  </g>
+</svg>

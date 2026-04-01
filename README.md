@@ -1,48 +1,45 @@
 <div align="center">
-  <img src="witchaudio_banner.svg" alt="WITCHAUDIO" />
-</div>
-
-<table>
-  <tr>
-      <br/>
-      <img src="witch_audio.png" width="240" alt="witchaudio woodcut" />
-      <br/><br/>
-      <code>full stack dev · qa engineer</code>
-      <br/>
-      <code>~/witchaudio</code>
-    </td>
-    <td valign="top">
-
-```
- ╔══ witchaudio v1.0 ══════════════════════════════════╗
- ║                                                      ║
- ║  Profile                                             ║
- ║    role:       full stack developer | qa engineer     ║
- ║    focus:      audio programming · web experiences   ║
- ║    ask me:     audio and music production            ║
- ║                                                      ║
- ║  Now                                                 ║
- ║    > building tools for musicians & audio engineers  ║
- ║    > constantly learning new things                  ║
- ║                                                      ║
- ║  Find Me                                             ║
- ║    github:     github.com/witchaudio                 ║
- ║    email:      witchaudiostudios@gmail.com           ║
- ║    dev.to:     dev.to/s0undw1tch                     ║
- ║                                                      ║
- ╚══════════════════════════════════════════════════════╝
-```
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="shipping.svg" alt="Shipping progress" />
+  <img src="./witch_audio_ascii_banner.svg" alt="witch.audio ASCII banner" width="100%" />
 </div>
 
 <div align="center">
 
+```text
+> making AI do the weird audio stuff i always wanted
+> building 10,000 apps in public
+> livestreaming the strange ones first
 ```
-❯ make it simple. make it strange. █
+
+</div>
+
+<div align="center">
+
+`witch.audio` · `weird audio apps` · `agent-made plugins` · `vibe marketing tools`
+
+</div>
+
+<br/>
+
+```text
+┌─ currently
+│  shipping weird audio software
+│  building in public, even when it's scary
+│  turning experiments into content
+│  chasing 10,000 tiny strange apps
+└─ signal path
+   audio programming / AI tools / livestream chaos / internet art
 ```
+
+```text
+[ open tabs ]
+01. haunted plugins
+02. audio toys made by agents
+03. cursed little web experiments
+04. tools that should not exist but now do
+```
+
+<div align="center">
+  <a href="https://witch.audio">website</a> ·
+  <a href="https://github.com/witchaudio">github</a> ·
+  <a href="https://x.com/codevibesai">x / @codevibesai</a>
+</div>
